@@ -8,3 +8,7 @@ var recipes = {
   'kidney beans': '2 cans',
   'diced tomatoes': '1 can'
 }
+
+function updateObjectWithKeyAndValue(obj, key, value) {
+  return(Object.assign({}))
+}
